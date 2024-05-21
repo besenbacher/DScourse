@@ -6,3 +6,4 @@ Test repo for data science course
 * figs: generated plots
 * data: input data
 
+## Other Stuff
